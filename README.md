@@ -1,6 +1,6 @@
-# OctoPrint-LEDStripControl
+# OctoPrint-Addressable-LED-Strip-Control
 
-OctoPrint Plugin that intercepts M150 GCode commands and controls local GPIOs accordingly.
+OctoPrint Plugin that intercepts various GCode commands and controls local Raspberry Pi GPIOs accordingly.
 
 Implements the M150 command syntax from the latest Marlin.
 
